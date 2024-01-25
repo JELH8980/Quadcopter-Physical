@@ -1,5 +1,8 @@
 Kjell V2 Physical Model Hub
 -------------------------------
+![KjellPicture](https://github.com/JELH8980/Quadcopter-Physical/assets/65821757/2be9ee46-a20d-4c12-a4d7-49e55132a650)
+
+
 
 This GitHub Repository collects links as well as the report for a project condtuced during spring 2023. The focus was to design a quadcopter that targeted weakness of a prior version which was constructed
 during the earlier spring that same year as part of a Bachelor Project. 
