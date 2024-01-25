@@ -8,7 +8,7 @@ Available here is:
 
 * Report
 * Links to 3D model:
-    google drive:
-    3D cad: 
+    - google drive: https://drive.google.com/drive/folders/1vZbxszvTscnIyNk2kAhknKj8sWsRHB2d?usp=sharing 
+    - Grabcad: https://grabcad.com/library/kjell-v2-quadcopter-1  
 * Movies of simulations for static load analyses mentioned in the report.
-  See "visualization" folder.
+    - See "visualization" folder.
