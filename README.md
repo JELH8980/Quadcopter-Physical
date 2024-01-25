@@ -7,5 +7,8 @@ during the earlier spring that same year as part of a Bachelor Project.
 Available here is:
 
 * Report
-* Links to 3D model
+* Links to 3D model:
+    google drive:
+    3D cad: 
 * Movies of simulations for static load analyses mentioned in the report.
+  See "visualization" folder.
