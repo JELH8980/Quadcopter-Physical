@@ -4,7 +4,7 @@ Kjell V2 Physical Model Hub
 
 
 
-This GitHub Repository collects links as well as the report for a project condtuced during spring 2023. The focus was to design a quadcopter that targeted weakness of a prior version which was constructed
+This GitHub Repository collects links as well as the report for a project conducted during spring 2023. The focus was to design a quadcopter that targeted weakness of a prior version which was constructed
 during the earlier spring that same year as part of a Bachelor Project. 
 -----------------------------------------------------------------------------------------
 Available here is:
